@@ -618,7 +618,7 @@ mongo.connect("mongodb://localhost:27017", { useUnifiedTopology: true }, (err, d
             res.json({ user: result })
         })
     })
-
+    
     app.post('/datauser/:id', (req, res) => {
         const id = req.params.id
         dbcon.collection('user').findOne({ _id: ObjectId(id) }, {
