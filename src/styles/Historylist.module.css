@@ -1,0 +1,36 @@
+.title {
+    font-size: 18px;
+    margin: 6% 0;
+    text-align: center;
+}
+.namecouse {
+    margin: 0 6%;
+}
+.bg {
+margin:10% 0;
+padding: 8% 0;
+box-shadow: 0px 0px 6px rgb(190, 190, 190);
+border: 1px solid rgb(230, 230, 230);
+}
+.bg p {
+    margin: 1%  6%;
+    font-weight: 900;
+    font-size: 18px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.bg .date {
+    width: 70%;
+    border-radius: 10px;
+    padding: 15px;
+    border: none;
+    background: #84b85a;
+    box-shadow: 0 0 2px rgb(189, 189, 189);
+    color: #FDFB9C;
+    font-weight: 900;
+    font-size: 14px;
+    margin: 15px 0;
+}

@@ -1,0 +1,50 @@
+.bg .hearder .title{
+    text-align: center;
+    margin: 5% 0;
+
+}
+
+.bg .hearder .border{
+    border-bottom: 1px solid red;
+    margin: 4% 5%;
+
+}
+
+.bg .content {
+margin: 0 2%;
+}
+
+.bg .content .inputs {
+    margin: 0 2%;   
+}
+.bg .content .inputs label {
+    font-weight: 900;
+}
+.bg .content .inputs input{
+    padding: 3% 2%;
+    font-size: 12px;
+    margin: 4% 0;
+    width: 100%; 
+}
+.bg .content .inputs input[type = "text"],input[type = "number"] {
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 5px;
+}
+
+.bg .content .btn {
+    display: flex;
+    justify-content: center;
+}
+
+.bg .content .btn .btns {
+    background: #76b65d;
+    color: #FDFB9C;
+    box-shadow: 0px 0px 8px rgb(83, 83, 83);
+    margin-top: 10%;
+    width: 50%;
+    padding: 10px 0;
+    margin: 5% 0%;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+}

@@ -1,0 +1,40 @@
+.contents_das {
+    margin-top: 10%;
+    
+}
+.contents_das .title {
+    margin-left: 5%;
+    font-size: 18px;
+}
+.cors {
+    display: flex;
+    flex-direction: column;
+    margin: 10% 0;
+}
+.cors .img {
+    margin-left: 6%;
+    width: 88%;
+    height: 150px;
+}
+.cors .namecors {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    font-size: 16px;
+}
+.cors .btn {
+    display: flex;
+    flex-direction: row;
+    margin: 6% 6%;
+    
+}
+.btn_das {
+    width: 35%;
+    padding: 10px 0;
+    background: #84b85a;
+    color: #FDFB9C;
+    box-shadow: 0px 0px 8px rgb(83, 83, 83);
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+}

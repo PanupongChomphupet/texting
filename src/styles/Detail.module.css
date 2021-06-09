@@ -1,0 +1,127 @@
+
+.content {
+    margin-bottom: 14%;
+}
+
+.content .title{
+    font-size: 26px;
+    margin-top: 7%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    font-size: 22px;
+}
+.texta {
+    text-align: center;
+    margin-top: 15%;
+    color: #FDFB9C;
+}
+.content .border{
+    border-bottom: 2px solid #00CBFC;
+    margin: 0 22px;
+}
+
+.select_level {
+    margin: 6% 1.5%;
+    padding: 10px 0;
+    box-shadow: 0px 0px 6px #99ce6f;
+    background-color: #7bbd61;
+    color: #FDFB9C;
+    min-height: 200px;
+    height: auto;
+}
+
+.content .titlelevel {
+    margin: 0 4%;
+    font-size: 26px;
+}
+.content .contentlevel {
+    display: flex;
+    margin: 4% 0;
+    padding: 0 4%;
+    
+}
+
+.content .contentlevel .price {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content .contentlevel .price p {
+    margin: 6% 0;
+    font-size: 17px;
+}
+
+.content .contentlevel .textlevel {
+    display: flex;
+    flex: 0.96;
+    align-items: center;
+    padding-right: 5%;
+    font-size: 18px;
+}
+
+.price .btn_add {
+    background: #76b65d;
+    border: none;
+    box-shadow: 0px 0px 8px #acbb3a;
+    border-radius: 10px; 
+    width: 150%;
+    padding: 5px 0;
+}
+
+.price .btn_add label {
+    font-size: 18px;
+    color: #FDFB9C;
+}
+
+.detail {
+    margin: 6% 1.5%;
+    border-radius: 15px;
+    background-color: #7bbd61;
+    padding: 4%;
+    color: #FDFB9C;
+    min-height: 200px;
+    height: auto;
+}
+
+.content .detail .titles {
+    padding-top: 4%;
+    padding-left: 3%;
+    font-size: 24px;
+    
+}
+
+.content .detail p{
+    font-size: 16px;
+    margin-top: 5%;
+}
+
+.details {
+    margin: 4% 2%;
+    font-size: 1234;
+    line-height: 30px;
+    word-wrap:break-word;
+    
+}
+
+.btn p {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    position: fixed;
+    bottom: 3%;
+    background: #76b65d;
+    margin: 1% 0;
+    width: 44%;
+    padding: 1% 0px;
+    margin-left: 30%;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0px 0px 8px rgb(83, 83, 83);
+    color: #FDFB9C;
+    font-size: 20px;
+}

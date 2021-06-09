@@ -1,0 +1,39 @@
+.bg {
+    margin: 15% 0%;
+}
+.bg .content {
+    box-shadow: 0px 0px 4px rgb(207, 207, 207);
+    margin: 10% 0;
+    padding: 2% 0 ;
+}
+.bg .title {
+    margin: 0 5%;
+    font-size: 18px;
+}
+.bg .content .level {
+    font-size: 14px;
+    margin: 3% 10%;
+}
+span  {
+    float: right;
+}
+.bg .content .sumprice {
+    font-weight: 900;
+    font-size: 16px;
+    margin: 10% 10%;
+}
+.bg_btn {
+    display: flex;
+    margin: 10% 0;
+    justify-content: center;
+}
+.btn {
+    width: 40%;
+    padding: 4% 0%;
+    font-size: 18px;
+    background: #84b85a;
+    box-shadow: 0px 0px 8px rgb(83, 83, 83);
+    border: none;
+    border-radius: 10px;
+    color: #FDFB9C;
+}
